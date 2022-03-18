@@ -1,0 +1,3 @@
+Primeira etapa.: Criar o pen drive do Limux Mint;
+Segunda etapa..: Bootar no Notebook com o pendriver do Linux Mint
+Terceira Etapa..: Formatar e instalar o Linux Mint
